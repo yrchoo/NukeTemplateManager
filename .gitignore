@@ -1,0 +1,22 @@
+# Python
+**/__pycache__/
+
+# Nuke
+*.autosave
+*.autosave.*
+*.crash
+*.tmp
+*.nuke.cache
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+.*swp
+
+# PyCharm
+.idea/
+*.iml
+
